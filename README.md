@@ -178,9 +178,3 @@ npm install
 - If the script is interrupted, re-running it will re-evaluate all rows — add a column check to skip already-scored rows for faster restarts
 - The Claude model used is `claude-sonnet-4-5` — change in `index.js` if needed
 - All evaluation logic is prompt-driven — edit `prompt_new.js` to adjust scoring criteria
-
----
-
-## License
-
-MIT
